@@ -1,5 +1,9 @@
-title: Mi Sitio Jekyll
-description: Un sitio web básico hecho con Jekyll
-baseurl: "" 
-url: ""
-theme: minima
+title: BUFETE PAYES Y ASOCIADOS
+description: ESTA ES LA PAGINA OFICIAL DEL BUFETE PAYES Y ASOCIADOS
+
+author:
+  name: Marco Payes
+
+ theme: jekyll-theme-slate
+
+
